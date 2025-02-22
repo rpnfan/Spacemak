@@ -3,7 +3,7 @@ Spacemak is a universal keyboard layer concept and fully compatible with any alp
 
 Spacemak is an alternative to the even more comfortable [Anymak](https://github.com/rpnfan/Anymak) concept. Advantage of Spacemak is that no changes to the used alphanumeric layout are needed.
 
-Spacemak offers a huge gain in keyboard productivity and comfort. There is simply no serious reason not us use — at least to implement it partially. Here an example implementation for QWERTY on a split ergonomic keyboard. The concept can be applied in exactly the same way on a standard keyboard. 
+Spacemak offers a huge gain in keyboard productivity and comfort. There is simply no serious reason not us use — at least to implement it partially. Here an example implementation for QWERTY on a split ergonomic keyboard. The concept can be applied in exactly the same way on a standard keyboard. Read a detailed article on kbd.news, explaining the Anymak and Spacemak concept: https://kbd.news/Anymak-the-compatible-ergonomic-keyboard-layout-2574.html
 
 ## Building blocks of Spacemak
 Spacemak combines the following 
