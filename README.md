@@ -18,7 +18,7 @@ Shift and symbol layer are accessed by hold-tap functions. Both Shift and the sy
 The symbol layer can be populated with symbols you want to access easier, including those which are normally not directly available, such as greek characters, math symbols, typographic sugar (no-break space and others).
 
 ## Navigation and shortcut layer
-The navigation layer is accessed by keeping the Shift-key held with the thumb on the opposing hand. My navigation layer looks like that.
+The navigation layer is accessed by keeping the Space-key held with the thumb on the opposing hand. My navigation layer looks like that.
 ![image](https://github.com/user-attachments/assets/d02bb50a-5fae-4ed9-acf6-8a6b582f2bc3)
 
 ## Hardware or software implementation
