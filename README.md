@@ -19,7 +19,7 @@ The symbol layer can be populated with symbols you want to access easier, includ
 
 ## Navigation and shortcut layer
 The navigation layer is accessed by keeping the Space-key held with the thumb on the opposing hand. My navigation layer looks like that.
-![image](https://github.com/user-attachments/assets/d02bb50a-5fae-4ed9-acf6-8a6b582f2bc3)
+![image](https://github.com/user-attachments/assets/db551438-59a3-441f-ae0d-a50c0e3e6b7f)
 
 ## Hardware or software implementation
 Spacemak can either be realized with a programmable keyboard. For a split standard keyboard I had great success with the UHK 60 v2. But any keyboard supporting QMK, ZMK or other ways to program your keyboard will work. To use Spacemak on a laptop or with a standard keyboard I suggest to use Kanata, which is available for Windows, Linux and macOS.
