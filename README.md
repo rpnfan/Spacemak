@@ -11,7 +11,7 @@ Spacemak combines the following
 2. [hold-tap](https://zmk.dev/docs/keymaps/behaviors/hold-tap) to access the shift- and additional symbol layer
 3. [bottom-row-mods](https://precondition.github.io/home-row-mods#upperlower-row-mods)
 
-![image](https://github.com/user-attachments/assets/9bc51c0e-29e2-4033-9460-7c173dbb3caf)
+![image](https://github.com/user-attachments/assets/10ef03da-93ff-4422-9ab7-4da0393ea4c7)
 
 ## Shift and symbol layer
 Shift and symbol layer are accessed by hold-tap functions. Both Shift and the symbol layer keys are set-up symmetrical, see the graphic above.
