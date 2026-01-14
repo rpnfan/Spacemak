@@ -24,6 +24,7 @@ The navigation layer is accessed by keeping the Space-key held with the thumb on
 ## Hardware or software implementation
 Spacemak can either be realized with a programmable keyboard. For a split standard keyboard I had great success with the UHK 60 v2. But any keyboard supporting QMK, ZMK or other ways to program your keyboard will work. To use Spacemak on a laptop or with a standard keyboard I suggest to use Kanata, which is available for Windows, Linux and macOS.
 
-
+## Keyboard (language) layout
+You can use these ideas with any keyboard layout, such as QWERTY, Colemak, Dvorak and so on. In case you want to get the last few percent of typing comfort learning an alternative keyboard layout can be worth it. In that case you might find anymak:END interesting, which is fully optimized for comfort, also taking into account shift and symbol layer key switches. If you prefer a layout which only optimizes the character positions, without changing how you realize Shift, you might find my En* keyboard layouts interesting. There are versions available for English and German [EnDeu](https://github.com/rpnfan/EnDeu) or other lanugage combinations, such as Dutch, French or Spanish. 
 
 
